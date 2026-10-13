@@ -18,9 +18,9 @@ macOS 14 oder neuer; Apple Silicon (M1 oder neuer) oder Intel. Auf Apple Silicon
 
 ## Screenshots
 
-Bereits öffentliche Website-Bilder als Beispiele; die aktuelle Version kann abweichen:
+Bereits öffentliche Website-Bilder mit der Standard-Akzentfarbe Gold im dunklen Modus; die aktuelle Version kann abweichen:
 
-[Diktat-Steuerung](https://aitomat.ai/wp-content/uploads/2026/10/webbilderzwei110-20261012-012741-w110-webbilderzwei-app-en-hud-blau.png) · [Verlauf und KI-Chat](https://aitomat.ai/wp-content/uploads/2026/10/webbilderzwei110-20261012-012741-w110-webbilderzwei-app-en-chat-blau.png)
+[Diktat-Steuerung](https://aitomat.ai/wp-content/uploads/2026/10/webbildergold112-de-hud-aufnahme-gold.png) · [Verlauf und KI-Chat](https://aitomat.ai/wp-content/uploads/2026/10/webbildergold112-de-chat-gold.png)
 
 ## Datenschutz
 

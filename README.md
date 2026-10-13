@@ -18,9 +18,9 @@ macOS 14 or later; Apple Silicon (M1 or newer) or Intel. Apple Silicon uses Nemo
 
 ## Screenshots
 
-Already public website images; illustrative, and may differ from the current version:
+Screenshots in the standard gold accent and dark appearance, English interface. The accent colour can be changed freely in the app.
 
-[Dictation controls](https://aitomat.ai/wp-content/uploads/2026/10/webbilderzwei110-20261012-012741-w110-webbilderzwei-app-en-hud-blau.png) · [History and AI chat](https://aitomat.ai/wp-content/uploads/2026/10/webbilderzwei110-20261012-012741-w110-webbilderzwei-app-en-chat-blau.png)
+[Dictation controls](https://aitomat.ai/wp-content/uploads/2026/10/webbildergold112-en-hud-aufnahme-gold.png) · [History and AI chat](https://aitomat.ai/wp-content/uploads/2026/10/webbildergold112-en-chat-gold.png)
 
 ## Privacy
 
